@@ -1,2 +1,4 @@
 # Some-algorithms
-Some algorithms inplemented in c++ in the book Introduction to Algorithms for practice
+Some algorithms inplemented in c++ in the book Introduction to Algorithms for practice.
+
+In progress.
